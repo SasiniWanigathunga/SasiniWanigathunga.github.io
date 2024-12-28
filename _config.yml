@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Sasini Wanigathunga"
 title_separator          : "-"
 name                     : &name "Sasini Wanigathunga"
-description              : &description "personal description"
+description              : &description "Machine Learning Enthusiast"
 url                      : https://sasiniwanigathunga.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SasiniWanigathunga/SasiniWanigathunga.github.io"
@@ -21,7 +21,7 @@ repository               : "SasiniWanigathunga/SasiniWanigathunga.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Sasini_Wanigathunga2.jpg"
   name             : "Sasini Wanigathunga"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning Enthusiast"
