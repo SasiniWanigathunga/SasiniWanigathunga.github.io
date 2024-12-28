@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sasini Wanigathunga"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Sasini Wanigathunga"
 description              : &description "Machine Learning Enthusiast"
